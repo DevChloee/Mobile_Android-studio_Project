@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dawon\'s Android Labs</string>
+    <string name="button_message">버튼 눌러주세용</string>
+    <string name="hello_message">안녕 이건 메시지</string>
+</resources>

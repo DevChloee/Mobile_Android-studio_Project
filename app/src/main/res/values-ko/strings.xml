@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dawon\'s Android Labs</string>
+    <string name="hello_message">안녕 이건 메시지</string>
+    <string name="button_message">버튼 눌러주세용</string>
+    <string name="explaination">도시이름을 입력해주세요</string>
+    <string name="button">날씨 찾기</string>
+
+</resources>

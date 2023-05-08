@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dawon\'s Android Labs</string>
+    <string name="hello_message">Type your password</string>
+    <string name="button_message">LOGIN</string>
+    <string name="explaination">Type in the name of a city</string>
+
+
+</resources>
